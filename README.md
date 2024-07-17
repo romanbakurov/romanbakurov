@@ -1,4 +1,7 @@
 # Hello everybody, my name is Roman
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHF3bGMwZjMwbGxscnE1dWZtbzZzcTB1cDU3cGNiMTk2dW4xejFsZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fvx95jkua5th3YeThr/giphy.gif" width="100"/>
+</div>
 
 ### 🙋 About Me
 I'm frontend - developer
@@ -6,10 +9,6 @@ I'm frontend - developer
 <a href="https://www.linkedin.com/in/roman-bakurov/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</div>
-
-<div id="header" align="center">
-  <img src="https://i.giphy.com/media/https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHF3bGMwZjMwbGxscnE1dWZtbzZzcTB1cDU3cGNiMTk2dW4xejFsZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fvx95jkua5th3YeThr/giphy.gif" width="100"/>
 </div>
 
 ### :hammer_and_wrench: Languages and Tools :
