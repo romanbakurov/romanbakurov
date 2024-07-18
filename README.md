@@ -31,4 +31,6 @@ rom.bakurov@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roman-bakurov)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/apiroman-bakurov=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
