@@ -1,4 +1,5 @@
-# Hello everybody, my name is Roman
+# Hi there 👋 I'm Roman 👨‍💻
+
 <div id="header" align="left">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHF3bGMwZjMwbGxscnE1dWZtbzZzcTB1cDU3cGNiMTk2dW4xejFsZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fvx95jkua5th3YeThr/giphy.gif" width="100"/>
 </div>
@@ -22,12 +23,13 @@ I'm frontend - developer
 ---
 ### 🤙 My contacts :
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)rom.bakurov@gmail.com
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+📫 How to reach me: rom.bakurov@gmail.com
 [@rio_n](http://t-do.ru/rio_n "Telegram channel")
 
 ---
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=roman-bakurov&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?roman-bakurov=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
