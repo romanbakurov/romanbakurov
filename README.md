@@ -32,6 +32,4 @@ I'm frontend - developer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romanbakurov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=romanbakurov)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
