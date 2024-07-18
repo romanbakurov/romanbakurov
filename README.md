@@ -12,8 +12,6 @@ I am an interface full-stack developer and I continue to study to work in other 
 - Integration with the database 📁
 - Integration of systems through the API
 
-### 🙋 About Me
-I'm frontend - developer
 <div id="badges">
 <a href="https://www.linkedin.com/in/roman-bakurov/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
