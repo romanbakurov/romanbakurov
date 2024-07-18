@@ -1,4 +1,8 @@
-# Hi there 👋 I'm Roman 👨‍💻
+# Hi there 👋 I'm Roman 👨‍💻 <div id="badges">
+<a href="https://www.linkedin.com/in/roman-bakurov/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 <div id="header" align="left">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHF3bGMwZjMwbGxscnE1dWZtbzZzcTB1cDU3cGNiMTk2dW4xejFsZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fvx95jkua5th3YeThr/giphy.gif" width="100"/>
@@ -11,12 +15,6 @@ I am an interface full-stack developer and I continue to study to work in other 
 - Creating static and dynamic pages 💻
 - Integration with the database 📁
 - Integration of systems through the API
-
-<div id="badges">
-<a href="https://www.linkedin.com/in/roman-bakurov/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
