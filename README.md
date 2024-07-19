@@ -1,4 +1,5 @@
-# Hi there 👋 I'm Roman 👨‍💻 <div id="badges">
+# Hi there 👋 I'm Roman 👨‍💻 
+<div id="badges">
 <a href="https://www.linkedin.com/in/roman-bakurov/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -25,9 +26,8 @@ I am an interface full-stack developer and I continue to study to work in other 
 </div>
 
 ---
-### 🤙 My contacts :
+### 📫 How to reach me: 
 
-📫 How to reach me: 
 - rom.bakurov@gmail.com
 - [@rio_n](http://t-do.ru/rio_n "Telegram channel")
 
