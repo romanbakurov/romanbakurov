@@ -17,7 +17,6 @@ I am an interface full-stack developer and I continue to study to work in other 
 
 <br/>
 
----
 
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
@@ -36,7 +35,6 @@ I am an interface full-stack developer and I continue to study to work in other 
 </div>
 <br/>  
 
----
 
 ### 📫 I'm online:
 <div align="center">
@@ -56,7 +54,6 @@ I am an interface full-stack developer and I continue to study to work in other 
 </div>
 <br/>  
 
----
 
 ### :fire: My Stats :
 <div align="center">
