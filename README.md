@@ -15,6 +15,10 @@ I am an interface full-stack developer and I continue to study to work in other 
 - Integration with the database 📁
 - Integration of systems through the API
 
+<br/>
+
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
  
@@ -30,6 +34,7 @@ I am an interface full-stack developer and I continue to study to work in other 
 &nbsp;
 <img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=007ACC" alt="Figma logo" title="Figma" height="25" />
 </div>
+<br/>  
 
 ---
 
@@ -49,6 +54,7 @@ I am an interface full-stack developer and I continue to study to work in other 
 <img src=https://img.shields.io/badge/telegram-%2324292e.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 </a>  
 </div>
+<br/>  
 
 ---
 
