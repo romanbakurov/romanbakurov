@@ -15,9 +15,8 @@ I am an interface full-stack developer and I continue to study to work in other 
 - Integration with the database 📁
 - Integration of systems through the API
 
-<div align="center"> 
-
 ### :hammer_and_wrench: Languages and Tools :
+<div align="center">
  
 <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />
 <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=E34F26" alt="CSS3 logo" title="HTML5" height="25" />
@@ -34,9 +33,8 @@ I am an interface full-stack developer and I continue to study to work in other 
 
 ---
 
+### 📫 I'm online:
 <div align="center">
-
-### 📫 I'm online: 
 
 <a href="https://github.com/romanbakurov" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -54,13 +52,12 @@ I am an interface full-stack developer and I continue to study to work in other 
 
 ---
 
+### :fire: My Stats :
 <div align="center">
 
-### :fire: My Stats :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romanbakurov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romanbakurov&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=romanbakurov&color=green)
 </div> 
 
----
+<br/>  
