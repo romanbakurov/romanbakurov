@@ -18,7 +18,7 @@ I am an interface full-stack developer and I continue to study to work in other 
 <br/>
 
 
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
 <div align="center">
  
 <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />
@@ -36,7 +36,7 @@ I am an interface full-stack developer and I continue to study to work in other 
 <br/>  
 
 
-### 📫 I'm online:
+## 📫 I'm online:
 <div align="center">
 
 <a href="https://github.com/romanbakurov" target="_blank">
@@ -55,7 +55,7 @@ I am an interface full-stack developer and I continue to study to work in other 
 <br/>  
 
 
-### :fire: My Stats :
+## :fire: My Stats :
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romanbakurov&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
