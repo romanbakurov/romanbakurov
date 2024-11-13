@@ -6,7 +6,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHF3bGMwZjMwbGxscnE1dWZtbzZzcTB1cDU3cGNiMTk2dW4xejFsZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fvx95jkua5th3YeThr/giphy.gif" width="100"/>
 </div>
 
-I am an interface full-stack developer and I continue to study to work in other fields. I am originally from Ukraine, and I am currently studying software development.
+I am an interface full-stack developer and I continue to study to work in other fields. And I am currently studying software development.
 </div>
 
 ### My skills
