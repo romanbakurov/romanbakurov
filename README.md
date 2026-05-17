@@ -49,6 +49,7 @@ Content management platform with:
 | SCSS | REST APIs | | VS Code |
 | Storybook | | | CI/CD |
 
+
 ---
 
 ## 🧠 What I'm learning
@@ -78,7 +79,13 @@ Content management platform with:
 <details>
 <summary>📊 GitHub Stats</summary>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=romanbakurov&hide_border=true&layout=compact&theme=transparent)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white)
+
 
 ![](https://komarev.com/ghpvc/?username=romanbakurov&color=green)
 
