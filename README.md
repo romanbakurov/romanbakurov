@@ -71,6 +71,8 @@ Content management platform with:
 
 ## 📫 Connect with me
 
+[![Email](https://img.shields.io/badge/Email-rom.bakurov%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rom.bakurov@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-%40rio__rom-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/rio_rom)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-roman--bakurov-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/roman-bakurov)
 [![GitHub](https://img.shields.io/badge/GitHub-romanbakurov-black?style=flat&logo=github)](https://github.com/romanbakurov)
 
