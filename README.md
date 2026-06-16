@@ -1,94 +1,108 @@
 # Hi 👋 I'm Roman Bakurov
 
-**Full-Stack Developer** | React • TypeScript • NestJS • PostgreSQL
+Frontend / Full-Stack Developer focused on React, TypeScript, Design Systems, and scalable UI architecture.
 
-Building accessible, well-tested UI components and full-stack applications. Creator of [Flux UI](https://github.com/romanbakurov/Flux-UI) — a React component library with full accessibility and automated visual testing.
+I build accessible, reusable component libraries and modern web applications with a strong focus on developer experience, testing, and maintainability.
 
-📍 Open to **remote junior/entry-level opportunities**
+📍 Based in France
+🌍 Open to remote opportunities
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
-### [Flux UI](https://github.com/romanbakurov/Flux-UI) — React Component Library
-[![GitHub stars](https://img.shields.io/github/stars/romanbakurov/Flux-UI?style=social)](https://github.com/romanbakurov/Flux-UI)
+### Flux UI — Cross-Platform Design System
 
-React UI Kit built with accessibility in mind:
-- 20+ production-ready components with full ARIA support
-- Automated CI/CD with GitHub Actions (linting, testing, visual regression)
-- Chromatic + Storybook for visual testing and documentation
-- Semantic-release for automated versioning
+Modern Design System for React and React Native built with a shared architecture and design tokens.
 
-**Tech:** React, TypeScript, SCSS, Storybook, Chromatic, Vitest, ESLint, Prettier, Husky
+#### Highlights
 
-### Movie Booking App — Full-Stack
-Full-stack cinema booking application:
-- User authentication and role-based access
-- Movie catalog with filtering and search
-- Seat selection and booking flow
-- RESTful API with NestJS
+* Cross-platform architecture (Web + Native)
+* Shared design tokens
+* Shared hooks and state management
+* Shared type system
+* Cross-platform icon generator
+* Accessibility-first components
+* Storybook documentation
+* Visual regression testing with Chromatic
+* Automated releases with Semantic Release
+* GitHub Actions CI/CD
 
-**Tech:** React, NestJS, PostgreSQL, TypeScript
+#### Tech Stack
 
-### Blog Platform — CRUD Application
-Content management platform with:
-- Create, edit, delete posts
-- User comments and interactions
-- Admin dashboard
+React • React Native • TypeScript • Storybook • Chromatic • Vitest • ESLint • pnpm Monorepo • GitHub Actions
 
-**Tech:** React, NestJS, PostgreSQL, TypeScript
+🔗 Repository: https://github.com/romanbakurov/Flux-UI
 
 ---
 
 ## 🛠 Tech Stack
 
-| Frontend | Backend | Database | Tools |
-|----------|---------|----------|-------|
-| React | NestJS | PostgreSQL | Git |
-| TypeScript | Node.js | SQL | Docker (basic) |
-| SCSS | REST APIs | | VS Code |
-| Storybook | | | CI/CD |
+### Frontend
 
+* React
+* TypeScript
+* Next.js
+* SCSS
+* Storybook
+* Vite
+
+### Mobile
+
+* React Native
+* Expo
+
+### Backend
+
+* NestJS
+* Node.js
+* REST API
+
+### Database
+
+* PostgreSQL
+
+### Tooling
+
+* Git
+* GitHub Actions
+* Docker
+* Vitest
+* ESLint
+* Prettier
+* Husky
+* Semantic Release
 
 ---
 
-## 🧠 What I'm learning
+## 🧠 Currently Learning
 
-- Next.js for server-side rendering
-- Testing with Vitest & Playwright
-- Advanced accessibility patterns (WCAG)
-- Microservices architecture
+* Advanced React Native architecture
+* Design System engineering
+* Accessibility (WCAG)
+* E2E testing
+* Scalable frontend architecture
 
 ---
 
 ## 🌍 Languages
 
-- 🇷🇺 Russian — Native
-- 🇬🇧 English — Intermediate (B1+)
-- 🇫🇷 French — A1
+🇷🇺 Russian — Native
+
+🇬🇧 English — Intermediate (B1+)
+
+🇫🇷 French — Beginner (A1)
 
 ---
 
-## 📫 Connect with me
+## 📫 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-rom.bakurov%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rom.bakurov@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-%40rio__rom-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/rio_rom)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-roman--bakurov-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/roman-bakurov)
-[![GitHub](https://img.shields.io/badge/GitHub-romanbakurov-black?style=flat&logo=github)](https://github.com/romanbakurov)
+* GitHub: https://github.com/romanbakurov
+* LinkedIn: https://linkedin.com/in/romanbakurov
+* Email: [ronbakurov@gmail.com](mailto:ronbakurov@gmail.com)
 
 ---
 
-<details>
-<summary>📊 GitHub Stats</summary>
+## 📈 Current Focus
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white)
-
-
-![](https://komarev.com/ghpvc/?username=romanbakurov&color=green)
-
-</details>
+Building Flux UI into a production-ready cross-platform Design System and expanding expertise in frontend architecture, accessibility, and developer tooling.
