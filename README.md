@@ -1,89 +1,103 @@
 # Hi, I'm Roman Bakurov
 
-Frontend / Full-Stack Developer focused on React, TypeScript, React Native, design systems, and scalable UI architecture.
+Software Engineer focused on design systems, cross-platform UI architecture, developer tooling, and AI-assisted software automation.
 
-I build accessible component libraries, reusable product interfaces, and developer-friendly tooling with a strong focus on maintainability, tests, and documentation.
+I build production-oriented systems around React, React Native, TypeScript, component architecture, deterministic validation, code generation, and developer experience.
 
 - Based in France
-- Open to remote opportunities
+- Building Vellira
+- Interested in design systems, developer infrastructure, AI agents, and autonomous software workflows
 
 ---
 
 ## Featured Project
 
-### Virelia — Cross-Platform UI Library
+### Vellira
 
-Virelia is a cross-platform UI library for React and React Native. It is built as a pnpm monorepo with shared design tokens, shared platform-agnostic types, reusable hooks, generated icons, Storybook documentation, and automated quality checks.
+[Vellira](https://vellira.dev) is a TypeScript-first cross-platform design system and developer platform for React and React Native.
 
-#### Highlights
+It combines reusable UI components with machine-readable component contracts, generators, deterministic quality checks, documentation automation, and AI-assisted component production.
 
-- Web and native packages for React and React Native
-- Shared design tokens for colors, typography, spacing, and component styling
-- Shared types designed to stay platform-independent
-- Shared hooks that can be reused across web and native packages
-- Cross-platform icon generation in TSX format
-- Accessible web components and native-friendly component APIs
-- Storybook documentation for web and native components
-- Component tests with Vitest
-- Visual regression workflow with Chromatic
-- Automated releases with Semantic Release and GitHub Actions
+The long-term goal is to make component development increasingly autonomous while keeping deterministic validation, review, and delivery boundaries.
 
-#### Tech Stack
+### What Vellira includes
 
-React • React Native • TypeScript • Storybook • Chromatic • Vitest • Vite • Expo • SCSS Modules • pnpm Workspaces • GitHub Actions
+- React and React Native component packages
+- Shared design tokens and cross-platform architecture
+- Accessible component APIs
+- Machine-readable component metadata
+- Component generators and production pipelines
+- Automated API documentation
+- Storybook and native component development environments
+- Component completeness and quality validation
+- Visual regression and end-to-end testing
+- CI/CD and automated releases
+- AI-assisted component expansion workflows
+- Bounded validation and repair pipelines
+- Controlled GitHub delivery through reviewable pull requests
 
-Repository: https://github.com/romanbakurov/Virelia
+### Links
 
----
-
-## Tech Stack
-
-### Frontend
-
-- React
-- TypeScript
-- Next.js
-- Vite
-- SCSS / CSS Modules
-- Storybook
-
-### Mobile
-
-- React Native
-- Expo
-
-### Backend
-
-- NestJS
-- Node.js
-- REST API
-
-### Database
-
-- PostgreSQL
-
-### Tooling
-
-- Git
-- GitHub Actions
-- Docker
-- Vitest
-- ESLint
-- Prettier
-- Husky
-- Semantic Release
-- pnpm
+- Website: https://vellira.dev
+- Documentation: https://docs.vellira.dev
+- Storybook: https://storybook.vellira.dev
+- GitHub: https://github.com/vellira-dev/vellira
 
 ---
 
 ## Currently Focused On
 
-- Building Virelia into a production-ready cross-platform UI library
-- Design system engineering
-- React Native architecture
-- Accessibility and component API design
-- Automated testing and visual regression workflows
-- Scalable frontend architecture
+I am currently working on the infrastructure that allows Vellira to produce and validate components with progressively less manual intervention.
+
+Current areas include:
+
+- autonomous component generation
+- component contracts and metadata
+- deterministic validation pipelines
+- bounded AI repair loops
+- React / React Native parity
+- accessibility validation
+- component quality tooling
+- documentation generation
+- production-safe automation
+- software agents and orchestration
+- developer experience and tooling architecture
+
+---
+
+## Tech Stack
+
+### Core
+
+React • React Native • TypeScript • Next.js • Expo
+
+### Design Systems
+
+Storybook • Design Tokens • Accessibility • Component API Design • Cross-Platform UI Architecture
+
+### Testing & Quality
+
+Vitest • Playwright • Chromatic • Property-Based Testing • ESLint • Prettier
+
+### Tooling & Infrastructure
+
+Node.js • pnpm • Turborepo • GitHub Actions • Docker • Vercel • Semantic Release
+
+### Other Experience
+
+NestJS • REST APIs • PostgreSQL
+
+---
+
+## Engineering Interests
+
+I am especially interested in systems where AI is not simply used to generate code, but operates inside deterministic engineering boundaries.
+
+That includes workflows such as:
+
+`specification → generation → validation → repair → verification → review → delivery`
+
+My current work explores how software systems can safely automate more of their own development and maintenance while preserving testability, evidence, and human control.
 
 ---
 
@@ -95,8 +109,8 @@ Repository: https://github.com/romanbakurov/Virelia
 
 ---
 
-## Connect With Me
+## Connect
 
 - GitHub: https://github.com/romanbakurov
 - LinkedIn: https://linkedin.com/in/romanbakurov
-- Email: [ronbakurov@gmail.com](mailto:ronbakurov@gmail.com)
+- Email: roman@vellira.dev
