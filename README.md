@@ -1,12 +1,17 @@
 # Hi, I'm Roman Bakurov
 
-Software Engineer focused on design systems, cross-platform UI architecture, developer tooling, and engineering automation.
+Founder & Product Architect at [Vellira](https://vellira.dev), building cross-platform UI systems and developer tooling.
 
-I build scalable frontend systems with React, React Native, and TypeScript, with a strong focus on component architecture, accessibility, testing, maintainability, and developer experience.
+I work at the intersection of design systems, frontend architecture, developer infrastructure, and engineering automation.
+
+My focus is on building systems that stay consistent and maintainable as they grow — across components, platforms, documentation, testing, and tooling.
 
 - Based in France
 - Building Vellira
-- Interested in design systems, developer infrastructure, automation, and AI-assisted engineering
+- React, React Native, and TypeScript
+- Design systems and cross-platform UI architecture
+- Developer tooling and engineering automation
+- AI-assisted software development
 
 ---
 
@@ -14,25 +19,26 @@ I build scalable frontend systems with React, React Native, and TypeScript, with
 
 ### Vellira
 
-[Vellira](https://vellira.dev) is a TypeScript-first cross-platform design system for React and React Native.
+[Vellira](https://vellira.dev) is an open-source cross-platform design system and developer tooling project for React and React Native.
 
-It combines reusable UI components with shared design tokens, structured component metadata, automated documentation, testing, quality validation, and developer tooling.
+It combines reusable UI components, shared design tokens, structured component metadata, automated documentation, testing, accessibility validation, quality gates, and repeatable component development workflows.
 
-Vellira is designed around maintainable component architecture, strong engineering contracts, cross-platform consistency, and automation that helps the system scale reliably as it grows.
+Vellira is built around strong engineering contracts and automation that help UI systems stay consistent and maintainable as they grow — across platforms, components, documentation, and tooling.
 
 ### Highlights
 
 - React and React Native component packages
-- Shared design tokens
+- Shared design tokens and theming
 - Cross-platform component architecture
 - Accessible component APIs
 - Structured component metadata
-- Component development tooling
+- Repeatable component production workflows
 - Automated documentation
-- Storybook environments
+- Interactive Storybook environments
 - Visual regression testing
 - End-to-end and component testing
-- Automated quality validation
+- Deterministic quality validation
+- Public API and architecture contracts
 - CI/CD and release automation
 - AI-assisted engineering workflows
 
@@ -47,18 +53,19 @@ Vellira is designed around maintainable component architecture, strong engineeri
 
 ## Currently Focused On
 
-I am currently building Vellira and the engineering infrastructure around reliable, scalable component development across React and React Native.
+I am currently building Vellira and the engineering infrastructure around reliable, repeatable component development across React and React Native.
 
 Current areas include:
 
 - cross-platform component architecture
-- design system engineering
+- component production workflows
 - component contracts and metadata
-- developer tooling and automation
 - deterministic quality validation
 - accessibility
-- testing infrastructure
+- testing and visual regression infrastructure
 - documentation automation
+- developer tooling and generators
+- CI/CD and release reliability
 - AI-assisted engineering workflows
 - developer experience
 
@@ -80,7 +87,7 @@ Vitest • Playwright • Chromatic • Property-Based Testing • ESLint • Pr
 
 ### Tooling & Infrastructure
 
-Node.js • pnpm • Turborepo • GitHub Actions • Docker • Vercel • Semantic Release
+Node.js • pnpm • Turborepo • GitHub Actions • Docker • Cloudflare • Semantic Release
 
 ### Other Experience
 
@@ -90,7 +97,7 @@ NestJS • REST APIs • PostgreSQL
 
 ## What I Care About
 
-I enjoy building systems that remain understandable and maintainable as they grow.
+I enjoy building systems where speed does not come at the cost of consistency or maintainability.
 
 My work is particularly focused on:
 
@@ -100,8 +107,27 @@ My work is particularly focused on:
 - accessibility
 - deterministic quality checks
 - reliable automation
+- maintainable developer infrastructure
 - developer experience
 - practical applications of AI in software engineering
+
+---
+
+## How I Think About Engineering
+
+I prefer systems where repeatable decisions are encoded into tooling instead of being left to convention.
+
+That means turning recurring engineering knowledge into:
+
+- contracts
+- metadata
+- generators
+- validation
+- tests
+- documentation
+- automated quality gates
+
+AI is useful for accelerating development, but the surrounding engineering system still needs to define what is valid, consistent, and maintainable.
 
 ---
 
