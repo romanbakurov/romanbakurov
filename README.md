@@ -1,146 +1,71 @@
-# Hi, I'm Roman Bakurov
+# Roman Bakurov
 
-Founder & Product Architect at [Vellira](https://vellira.dev), building cross-platform UI systems and developer tooling.
+**Founder & CEO of [Vellira](https://vellira.dev) · Product Architect**
 
-I work at the intersection of design systems, frontend architecture, developer infrastructure, and engineering automation.
+I’m building **Vellira** — infrastructure for governed UI production across React and React Native.
 
-My focus is on building systems that stay consistent and maintainable as they grow — across components, platforms, documentation, testing, and tooling.
+UI development still requires a large amount of repetitive engineering work: components, platform differences, consistency, accessibility, documentation, testing, quality, and maintenance.
 
-- Based in France
-- Building Vellira
-- React, React Native, and TypeScript
-- Design systems and cross-platform UI architecture
-- Developer tooling and engineering automation
-- AI-assisted software development
+Vellira is being built to systematize and automate that work.
+
+The project started as an open-source cross-platform design system and is gradually evolving into a broader engineering platform for creating and maintaining reusable UI infrastructure with a high degree of automation, validation, and control.
+
+My goal is not to generate more code.
+
+I’m building a system designed to make digital product development **faster, more consistent, and more scalable**.
 
 ---
 
-## Featured Project
+## Vellira
+
+**Vellira is building infrastructure for the next generation of UI development.**
+
+Today the project includes:
+
+- cross-platform UI infrastructure for React and React Native;
+- reusable components and design tokens;
+- developer tooling and automation;
+- accessibility and quality validation;
+- documentation and Storybook;
+- testing and visual validation;
+- CI/CD and release infrastructure;
+- AI-assisted engineering workflows.
+
+Vellira is being built as a system where automation does not replace engineering guarantees — it operates within them.
+
+The project is open source at its foundation, while Vellira is evolving toward a broader commercial product platform.
 
 ### Vellira
 
-[Vellira](https://vellira.dev) is an open-source cross-platform design system and developer tooling project for React and React Native.
-
-It combines reusable UI components, shared design tokens, structured component metadata, automated documentation, testing, accessibility validation, quality gates, and repeatable component development workflows.
-
-Vellira is built around strong engineering contracts and automation that help UI systems stay consistent and maintainable as they grow — across platforms, components, documentation, and tooling.
-
-### Highlights
-
-- React and React Native component packages
-- Shared design tokens and theming
-- Cross-platform component architecture
-- Accessible component APIs
-- Structured component metadata
-- Repeatable component production workflows
-- Automated documentation
-- Interactive Storybook environments
-- Visual regression testing
-- End-to-end and component testing
-- Deterministic quality validation
-- Public API and architecture contracts
-- CI/CD and release automation
-- AI-assisted engineering workflows
-
-### Links
-
-- Website: https://vellira.dev
-- Documentation: https://docs.vellira.dev
-- Storybook: https://storybook.vellira.dev
-- GitHub: https://github.com/vellira-dev/vellira
+- [Website](https://vellira.dev)
+- [GitHub](https://github.com/vellira-dev/vellira)
+- [Documentation](https://docs.vellira.dev)
+- [Storybook](https://storybook.vellira.dev)
 
 ---
 
-## Currently Focused On
+## About Me
 
-I am currently building Vellira and the engineering infrastructure around reliable, repeatable component development across React and React Native.
+I have **15+ years of experience building digital products**.
 
-Current areas include:
+Today my work spans:
 
-- cross-platform component architecture
-- component production workflows
-- component contracts and metadata
-- deterministic quality validation
-- accessibility
-- testing and visual regression infrastructure
-- documentation automation
-- developer tooling and generators
-- CI/CD and release reliability
-- AI-assisted engineering workflows
-- developer experience
+- product strategy;
+- product and software architecture;
+- engineering;
+- developer infrastructure;
+- automation;
+- AI-assisted software production;
+- company building.
 
----
+At Vellira, I lead the product, architecture, engineering direction, and long-term development of the company.
 
-## Tech Stack
-
-### Core
-
-React • React Native • TypeScript • Next.js • Expo
-
-### Design Systems
-
-Storybook • Design Tokens • Accessibility • Component API Design • Cross-Platform UI Architecture
-
-### Testing & Quality
-
-Vitest • Playwright • Chromatic • Property-Based Testing • ESLint • Prettier
-
-### Tooling & Infrastructure
-
-Node.js • pnpm • Turborepo • GitHub Actions • Docker • Cloudflare • Semantic Release
-
-### Other Experience
-
-NestJS • REST APIs • PostgreSQL
+I’m interested in building technologies that can become **infrastructure**, rather than another temporary layer of tooling.
 
 ---
 
-## What I Care About
+**Based in France.**
 
-I enjoy building systems where speed does not come at the cost of consistency or maintainability.
+### Connect
 
-My work is particularly focused on:
-
-- clear component APIs
-- strong engineering contracts
-- cross-platform consistency
-- accessibility
-- deterministic quality checks
-- reliable automation
-- maintainable developer infrastructure
-- developer experience
-- practical applications of AI in software engineering
-
----
-
-## How I Think About Engineering
-
-I prefer systems where repeatable decisions are encoded into tooling instead of being left to convention.
-
-That means turning recurring engineering knowledge into:
-
-- contracts
-- metadata
-- generators
-- validation
-- tests
-- documentation
-- automated quality gates
-
-AI is useful for accelerating development, but the surrounding engineering system still needs to define what is valid, consistent, and maintainable.
-
----
-
-## Languages
-
-- Russian — Native
-- English — Intermediate
-- French — Beginner
-
----
-
-## Connect
-
-- GitHub: https://github.com/romanbakurov
-- LinkedIn: https://linkedin.com/in/romanbakurov
-- Email: roman@vellira.dev
+[LinkedIn](https://linkedin.com/in/romanbakurov) · [Vellira](https://vellira.dev) · roman@vellira.dev
