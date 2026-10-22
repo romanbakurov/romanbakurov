@@ -2,6 +2,10 @@
 
 **Founder & CEO of [Vellira](https://vellira.dev) · Product Architect**
 
+**Main open-source project:** [vellira-dev/vellira](https://github.com/vellira-dev/vellira)
+· [Live Dashboard demo](https://vellira.dev/demo/dashboard)
+· [Web + React Native / Expo Starter](https://github.com/vellira-dev/vellira/tree/main/examples/workspace-starter).
+
 I’m building **Vellira** — infrastructure for governed UI production across React and React Native.
 
 UI development still requires a large amount of repetitive engineering work: components, platform differences, consistency, accessibility, documentation, testing, quality, and maintenance.
@@ -27,9 +31,10 @@ Today the project includes:
 - developer tooling and automation;
 - accessibility and quality validation;
 - documentation and Storybook;
+- a free, runnable [Dashboard Starter for Web and Expo](https://github.com/vellira-dev/vellira/tree/main/examples/workspace-starter);
 - testing and visual validation;
 - CI/CD and release infrastructure;
-- AI-assisted engineering workflows.
+- internal AI-assisted engineering workflows (not yet public Core features).
 
 Vellira is being built as a system where automation does not replace engineering guarantees — it operates within them.
 
@@ -41,6 +46,8 @@ The project is open source at its foundation, while Vellira is evolving toward a
 - [GitHub](https://github.com/vellira-dev/vellira)
 - [Documentation](https://docs.vellira.dev)
 - [Storybook](https://storybook.vellira.dev)
+- [Try the Dashboard Web demo](https://vellira.dev/demo/dashboard)
+- [Run the Dashboard Starter on Web or React Native](https://github.com/vellira-dev/vellira/blob/main/examples/workspace-starter/README.md)
 
 ---
 
